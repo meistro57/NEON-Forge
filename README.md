@@ -1,5 +1,11 @@
-# NEON Data Mining Toolkit
-https://github.com/meistro57/NEON-Forge/blob/e886a19015b69b27ad6500efe0d28a6e3a7e3b3d/NEON-LOGO.gif
+<p align="center">
+<b> NEON Data Mining Toolkit</b>
+</p>
+
+<p align="center">
+  <img src="NEON-LOGO.gif" alt="NEON-Forge Logo" width="300"/>
+</p>
+
 Complete Python toolkit for mining ecological data from the National Ecological Observatory Network (NEON).
 
 ## What You Can Mine
